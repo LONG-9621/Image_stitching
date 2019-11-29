@@ -31,9 +31,9 @@
 All stitched images are gonna be in 'stitched_images' folder
 
 ### Steps to take if you only want to stitch two parts of an image:
-1. Clone the project
-2. Populate folders 'left' and 'right' with images you want to stitch. In 'left' folder - put left part of images, in 'right' folder put right part of images
-3. Run the R script
+ 1. Clone the project
+ 2. Populate folders 'left' and 'right' with images you want to stitch. In 'left' folder - put left part of images, in 'right' put right part of images
+ 3. Run the R script
 
 All stitched images are gonna be in 'stitched_images' folder
 
