@@ -1,10 +1,9 @@
 library(png)
 library(readbitmap)
+library(rstudioapi)
 
-# Here we specify working directory (full path) where folders 'source_images', left', 'right', 'stitched_images'
-# and files 'imageStitching.R', 'split.py', 'validate.py' are located.
-# MUST DO!!!
-workingDirectory <- '/Users/nihad/Desktop/R/images'
+# Setting the right working directory
+workingDirectory <- dirname(getActiveDocumentContext()$path)
 setwd(workingDirectory)
 leftImagesPath <- paste(workingDirectory, "/left/", sep="")
 rightImagesPath <- paste(workingDirectory, "/right/", sep="")
