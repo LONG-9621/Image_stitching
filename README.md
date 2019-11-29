@@ -1,7 +1,7 @@
 # Stitching Images
 ### An algorithm written in R stitching 2 images assuming they have common fragment
-![firstImage](https://sun9-28.userapi.com/c858436/v858436395/103972/HmAW7uoneEw.jpg)
-![secondImage](https://sun9-48.userapi.com/c858436/v858436395/10397c/lxBMyBLQa00.jpg)
+![firstImage](https://sun9-70.userapi.com/c855628/v855628144/18593c/xAEK1uW6lZE.jpg)
+![secondImage](https://sun9-33.userapi.com/c855628/v855628144/185946/e1dogtNQWOg.jpg)
 
 
 ## Requirements to run the files
