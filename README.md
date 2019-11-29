@@ -10,9 +10,9 @@
 
 ### Packages:
 * R
-** png
-** readbitmap
+  * png
+  * readbitmap
 
 * Python
-** 1
-** 2
+  * 1
+  * 2
