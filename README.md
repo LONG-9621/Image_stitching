@@ -5,5 +5,14 @@
 
 
 ### Languages:
-* 1
-* 2
+* R
+* Python
+
+### Packages:
+* R
+** png
+** readbitmap
+
+* Python
+** 1
+** 2
