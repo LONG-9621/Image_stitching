@@ -22,11 +22,11 @@
   * import argparse
   
 ### Steps to take if you wish to test the algorithm on some dataset:
-1. Clone the project
-2. Populate folder "source_images" with initial images in bmp file format
-3. Run the python script "split.py" - it will split images in two parts putting them in folders 'left' and 'right' correspondingly
-4. Run the R script - it will stitch images and put them all in folder 'stitched_images'
-5. If you want to compare images - run the python script "validate.py"
+ 1. Clone the project
+ 2. Populate folder "source_images" with initial images in bmp file format
+ 3. Run the python script "split.py" - it will split images in two parts putting them in folders 'left' and 'right' correspondingly
+ 4. Run the R script - it will stitch images and put them all in folder 'stitched_images'
+ 5. If you want to compare images - run the python script "validate.py"
 
 All stitched images are gonna be in 'stitched_images' folder
 
