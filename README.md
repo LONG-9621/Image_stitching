@@ -1,5 +1,5 @@
 # Stitching Images
-### A program written in R stitching 2 images assuming they have common fragment
+### A program written in R stitching 2 images assuming they have a common fragment
 ![firstImage](https://sun9-70.userapi.com/c855628/v855628144/18593c/xAEK1uW6lZE.jpg)
 ![secondImage](https://sun9-33.userapi.com/c855628/v855628144/185946/e1dogtNQWOg.jpg)
 
