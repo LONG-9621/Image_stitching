@@ -27,5 +27,6 @@
 3. Run the python script "split.py" - it will split images in two parts putting them in folders 'left' and 'right' correspondingly
 4. Run the R script - it will stitch images and put them all in folder 'stitched_images'
 5. If you want to compare images - run the python script "validate.py"
+
 All stitched images are gonna be in 'stitched_images' folder
 ## DO NOT EDIT FOLDER NAMES
