@@ -7,8 +7,10 @@
 ## Requirements to run the files
 ### Packages to install/import:
 * R
+  * RStudio (IDE)
   * png
   * readbitmap
+  * rstudioapi
 
 * Python
   * from skimage.color import gray2rgb
@@ -26,4 +28,4 @@
 4. Run the R script - it will stitch images and put them all in folder 'stitched_images'
 5. If you want to compare images - run the python script "validate.py"
 All stitched images are gonna be in 'stitched_images' folder
-  
+## DO NOT EDIT FOLDER NAMES
